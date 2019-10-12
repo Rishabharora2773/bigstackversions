@@ -1,1 +1,1 @@
-This is a repo for all the bigstack project versions
+This is a repo for all the bigstack project versions.
